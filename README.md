@@ -403,6 +403,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="14"/>  [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill) with Context7 integration for documentation support.
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
 
+- [basilalshukaili/mcp-config-lint](https://github.com/basilalshukaili/mcp-config-lint) - Lint and security-check Claude Desktop MCP config files. Detects JSON errors, dead servers, unfilled placeholders, duplicate entries, and overly-permissive token scopes. Install: pip install mcp-config-lint, GitHub Action: uses: basilalshukaili/mcp-config-lint@v1
 <br />
 
 ## 📊 <a name="data-visualization"></a>Data Visualization
@@ -483,6 +484,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > E-Commerce platforms.
 
+- [basilalshukaili/agentbroker](https://github.com/basilalshukaili/agentbroker) - Agent-to-SMB commerce MCP server. AI agents find local businesses, send messages, schedule appointments, and handle bookings. 14 tools, built-in TCPA/GDPR/CASL compliance, optional USDC payments. Live: POST https://agent-broker-edge.basil-agent.workers.dev/mcp
 - <img src="https://www.mercadolibre.com.ar/favicon.ico" height="14" alt="MercadoLibre Logo" /> [Mercado Libre](https://mcp.mercadolibre.com/) - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 - <img src="https://shopsavvy.com/favicon.ico" height="14" alt="ShopSavvy Logo" /> **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)**<sup><sup>⭐</sup></sup> - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
 
