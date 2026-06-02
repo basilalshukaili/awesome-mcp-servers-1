@@ -510,6 +510,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 ### Server Managers
 
+- [mcp-config-lint](https://github.com/basilalshukaili/mcp-config-lint) - Lint and security-check your claude_desktop_config.json — catches dangerous command injections, token cost issues, and schema errors. CI-friendly, zero dependencies. pip install.
 - [mcp-get](https://github.com/michaellatman/mcp-get) - CLI tool for installing and managing MCP servers. Simplifies server installation and configuration for Claude Desktop.
   - Supports NPM-based servers
   - Automatic configuration generation
